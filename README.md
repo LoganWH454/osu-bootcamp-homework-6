@@ -1,1 +1,1 @@
-# osu-bootcamp-homework-6
+# OSU Bootcamp Homework 6
